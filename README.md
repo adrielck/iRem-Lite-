@@ -1,4 +1,4 @@
-# iRemoval Pro Lite - Diagnóstico e Estudo de iDevices
+# iRem Lite - Diagnóstico e Estudo de iDevices
 
 Uma ferramenta gráfica (GUI) simples feita em Python, com o objetivo de facilitar o diagnóstico e interação com dispositivos iOS (iPhone, iPad, etc). Foi desenvolvida para fins **educacionais e de estudo**, com foco em auxiliar no uso de comandos da suíte `libimobiledevice`.
 

@@ -77,7 +77,7 @@ Cada botão na interface chama uma função que executa comandos CLI (via `subpr
 ```
 iRemoval-Pro-Lite/
 │
-├── teste.py           # Código-fonte principal
+├── irem_lite.py           # Código-fonte principal
 ├── README.md          # Este arquivo
 ```
 

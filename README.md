@@ -61,7 +61,7 @@ brew install libimobiledevice ifuse
 4. Execute o script:
 
 ```bash
-python3 teste.py
+python3 irem lite.py
 ```
 
 ---
@@ -75,7 +75,7 @@ Cada botão na interface chama uma função que executa comandos CLI (via `subpr
 ## 📁 Estrutura
 
 ```
-iRemoval-Pro-Lite/
+iRem-Lite/
 │
 ├── irem_lite.py           # Código-fonte principal
 ├── README.md          # Este arquivo
